@@ -1,5 +1,5 @@
 # Livro de receitas
-Esse é um projeto é apenas um exemplo para o BootCamp Inter[Dio].
+Esse é um projeto é apenas um exemplo para o BootCamp Inter(DIO).
 Em produção...🦾
 
 ## Tecnologias Utilizadas
